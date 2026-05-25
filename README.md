@@ -70,6 +70,9 @@ Ten business questions answered via **PostgreSQL** in `customer_behavior_sql.sql
 
 An interactive dashboard (`customer_behavior_dashboard.pbix`) was built with the following KPIs and visuals:
 
+<img width="1337" height="730" alt="image" src="https://github.com/user-attachments/assets/aacce4eb-c9a4-40e8-b2f8-c4b6124538fe" />
+
+
 | KPI | Value |
 |-----|-------|
 | Total Customers | **3.9K** |
